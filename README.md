@@ -1,2 +1,2 @@
-# flyingscut.online
-华工飞跃手册
+# 华南理工大学飞跃手册
+

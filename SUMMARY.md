@@ -11,7 +11,6 @@
 
 * [约翰霍普金斯大学-生物医学工程硕士（BME）-19生医朱云龙](chu-guo-shen-zao/yue-han-huo-pu-jin-si-da-xue-sheng-wu-yi-xue-gong-cheng-shuo-shi-bme19-sheng-yi-zhu-yun-long.md)
 * [东京工业大学-IGP项目-19分子许熙](chu-guo-shen-zao/dong-jing-gong-ye-da-xue-igp-xiang-mu-19-fen-zi-xu-xi.md)
-* [2+2鲁汶大学-电子工程-21微电子郑飞扬](chu-guo-shen-zao/2+2-lu-wen-da-xue-dian-zi-gong-cheng-21-wei-dian-zi-zheng-fei-yang.md)
 * [2+2爱丁堡大学-电子与电气工程-21微电子李润庭](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-li-run-ting.md)
 * [2+2爱丁堡大学-电子与电气工程-21微电子邝星洋](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-kuang-xing-yang.md)
 

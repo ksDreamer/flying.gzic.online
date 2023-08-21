@@ -8,4 +8,4 @@
 
 由于外界的经济形势、就业形势、火热专业、招生政策等可能会变，且每位学子的个人情况不尽相同，同学们在参考往年飞跃手册时应当注意信息的时效性和契合度。
 
-本项目受启发于南方科技大学飞跃手册（[https://sustech-application.com](https://sustech-application.com/#/)）和清华大学飞跃手册（
+本项目受启发于南方科技大学飞跃手册（[https://sustech-application.com](https://sustech-application.com/#/)）和清华大学飞跃手册（[https://feiyue.online](https://feiyue.online)）

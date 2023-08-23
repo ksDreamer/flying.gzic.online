@@ -14,6 +14,7 @@
 * [2+2爱丁堡大学-电子与电气工程-21微电子李润庭](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-li-run-ting.md)
 * [2+2爱丁堡大学-电子与电气工程-21微电子邝星洋](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-kuang-xing-yang.md)
 * [代尔夫特理工大学-航空航天工程-21机器人费菁皓](chu-guo-shen-zao/dai-er-fu-te-li-gong-da-xue-hang-kong-hang-tian-gong-cheng-21-ji-qi-ren-fei-jing-hao.md)
+* [University of Akron-3+2(AMP)-19分子李锐新](chu-guo-shen-zao/university-of-akron3+2amp19-fen-zi-li-rui-xin.md)
 
 ## 考研
 

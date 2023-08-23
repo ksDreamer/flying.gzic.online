@@ -84,7 +84,7 @@ IELTS (academic version) with an overall band score of at least 6.5
 
 Cambridge Assessment English: at least a C1 Advanced
 
-我当时考的是雅思，一次过，感觉还挺轻松的，不需要画很多时间在备考上面。
+我当时考的是雅思，一次过，感觉还挺轻松的，不需要花很多时间在备考上面。
 
 iii. Numerus Fixus
 

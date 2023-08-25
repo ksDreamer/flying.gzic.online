@@ -10,15 +10,13 @@
 
 本项目受启发于南方科技大学飞跃手册（[https://sustech-application.com](https://sustech-application.com/#/)）和清华大学飞跃手册（[https://feiyue.online](https://feiyue.online)）
 
-
-
 ## 内容更新和传播
 
 华南理工大学飞跃手册从[华工手册](https://www.gzic.online)项目独立出来。
 
 **互联网地址是** [**https://flying.gzic.online**](https://flying.gzic.online)
 
-**项目开源地址：** [**https://github.com/ksDreamer/flying.gzic.online**](https://github.com/ksDreamer/flying.gzic.online)
+**项目开源地址是** [**https://github.com/ksDreamer/flying.gzic.online**](https://github.com/ksDreamer/flying.gzic.online)
 
 因为社交媒体的普及，传统网站网页式更新难有持续的关注，因此我们也使用社交媒体渠道来同步更新。欢迎大家关注！
 

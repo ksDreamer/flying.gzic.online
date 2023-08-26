@@ -1,6 +1,6 @@
 # Table of contents
 
-* [华南理工大学飞跃手册](README.md)
+* [README](README.md)
 
 ## 保研/直博
 
@@ -11,7 +11,7 @@
 ## 出国深造
 
 * [香港科技大学（广州）-Red Bird Mphil-19微电子冯雨橦](chu-guo-shen-zao/xiang-gang-ke-ji-da-xue-guang-zhou-red-bird-mphil19-wei-dian-zi-feng-yu-tong.md)
-* [香港科技大学（广州）-Mphil-左一航](chu-guo-shen-zao/xiang-gang-ke-ji-da-xue-guang-zhou-mphil-zuo-yi-hang.md)
+* [香港科技大学（广州）-Mphil-19微电子左一航](chu-guo-shen-zao/xiang-gang-ke-ji-da-xue-guang-zhou-mphil19-wei-dian-zi-zuo-yi-hang.md)
 * [约翰霍普金斯大学-生物医学工程硕士（BME）-19生医朱云龙](chu-guo-shen-zao/yue-han-huo-pu-jin-si-da-xue-sheng-wu-yi-xue-gong-cheng-shuo-shi-bme19-sheng-yi-zhu-yun-long.md)
 * [东京工业大学-IGP项目-19分子许熙](chu-guo-shen-zao/dong-jing-gong-ye-da-xue-igp-xiang-mu-19-fen-zi-xu-xi.md)
 * [University of Akron-3+2(AMP)-19分子李锐新](chu-guo-shen-zao/university-of-akron3+2amp19-fen-zi-li-rui-xin.md)

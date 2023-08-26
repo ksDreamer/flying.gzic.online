@@ -6,6 +6,7 @@
 
 * [清华大学-自动化-19智能制造李金鹏](bao-yan-zhi-bo/qing-hua-da-xue-zi-dong-hua-19-zhi-neng-zhi-zao-li-jin-peng.md)
 * [清华大学深研院-人工智能硕士-18自动化武思朗](bao-yan-zhi-bo/qing-hua-da-xue-shen-yan-yuan-ren-gong-zhi-neng-shuo-shi-18-zi-dong-hua-wu-si-lang.md)
+* [华东师范大学-环境设计-19级环境设计蒋静含](bao-yan-zhi-bo/hua-dong-shi-fan-da-xue-huan-jing-she-ji-19-ji-huan-jing-she-ji-jiang-jing-han.md)
 
 ## 出国深造
 

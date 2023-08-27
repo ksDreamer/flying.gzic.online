@@ -20,6 +20,7 @@
 * [2+2鲁汶大学-电子工程-21微电子郑飞扬](chu-guo-shen-zao/2+2-lu-wen-da-xue-dian-zi-gong-cheng-21-wei-dian-zi-zheng-fei-yang.md)
 * [2+2爱丁堡大学-电子与电气工程-21微电子李润庭](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-li-run-ting.md)
 * [2+2爱丁堡大学-电子与电气工程-21微电子邝星洋](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-kuang-xing-yang.md)
+* [2+2伯明翰大学-机械电子与机器人工程-21机器人周俊霖](chu-guo-shen-zao/2+2-bo-ming-han-da-xue-ji-xie-dian-zi-yu-ji-qi-ren-gong-cheng-21-ji-qi-ren-zhou-jun-lin.md)
 
 ## 考研
 

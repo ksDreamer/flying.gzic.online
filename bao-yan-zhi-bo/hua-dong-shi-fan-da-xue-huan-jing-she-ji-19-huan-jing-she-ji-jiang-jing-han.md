@@ -1,10 +1,10 @@
-# 华东师范大学-环境设计-19级环境设计蒋静含
+# 华东师范大学-环境设计-19环境设计蒋静含
 
 很荣幸接受到了来自华工飞跃手册开发团队的邀请！希望我平平无奇的保研经历能为学弟学妹们提供一些有效的帮助\~祝愿大家能成功被梦校录取！
 
 我下面的分享主要是以下几项内容（看起来有点多但我会尽量简短的！）：
 
-<figure><img src="blob:https://app.gitbook.com/fe2bc3df-8235-43f8-a60a-1117c884f089" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## 一、我的基本信息
 
@@ -58,7 +58,7 @@
 
 为了避免提交材料时手忙脚乱，建议大家将心仪院校的报名截止时间、提交材料及要求、提交方式列成excel表格，提交了之后做一个标记，下面这个是我做的简陋版可以给大家参考！
 
-<figure><img src="blob:https://app.gitbook.com/3392c3f6-fe89-4e7c-98f9-84cf47e4ef26" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### **专业成绩是第一位**
 

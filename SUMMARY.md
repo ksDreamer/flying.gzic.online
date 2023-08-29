@@ -30,6 +30,10 @@
 
 * [Page 4](jiu-ye/page-4.md)
 
+## 考公/考编
+
+* [怀平实之心，报桑梓之情](kao-gong-kao-bian/huai-ping-shi-zhi-xin-bao-sang-zi-zhi-qing.md)
+
 ***
 
 * [关于](guan-yu.md)

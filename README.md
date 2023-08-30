@@ -26,4 +26,16 @@
 
 **让我们一起做一件功在当代利在千秋，长远来看造福万千的事！**
 
+## 知识产权
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+本手册所有正文内容，未做特别声明均按照 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 协议进行分发。
+
+飞跃手册内容如未征得原作者同意，不得商用。
+
+引用内容和链接的知识产权归原出处作者。
+
+做出特别声明的内容，版权按声明执行。
+
 ##

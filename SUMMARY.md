@@ -10,6 +10,7 @@
 * [华东师范大学-环境设计-19环境设计蒋静含](bao-yan-zhi-bo/hua-dong-shi-fan-da-xue-huan-jing-she-ji-19-huan-jing-she-ji-jiang-jing-han.md)
 * [华南理工大学-电子信息-19机器人邓婧雯](bao-yan-zhi-bo/hua-nan-li-gong-da-xue-dian-zi-xin-xi-19-ji-qi-ren-deng-jing-wen.md)
 * [华南理工大学-电子信息-19机器人工程余绍蓉](bao-yan-zhi-bo/hua-nan-li-gong-da-xue-dian-zi-xin-xi-19-ji-qi-ren-gong-cheng-yu-shao-rong.md)
+* [华南理工大学-数学学院-19级数学类创新班黄亦婷](bao-yan-zhi-bo/hua-nan-li-gong-da-xue-shu-xue-xue-yuan-19-ji-shu-xue-lei-chuang-xin-ban-huang-yi-ting.md)
 
 ## 出国深造
 

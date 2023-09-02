@@ -8,6 +8,9 @@
 * [清华大学深研院-人工智能硕士-18自动化伍思朗](bao-yan-zhi-bo/qing-hua-da-xue-shen-yan-yuan-ren-gong-zhi-neng-shuo-shi-18-zi-dong-hua-wu-si-lang.md)
 * [清华大学-自动化-19智能制造李金鹏](bao-yan-zhi-bo/qing-hua-da-xue-zi-dong-hua-19-zhi-neng-zhi-zao-li-jin-peng.md)
 * [华东师范大学-环境设计-19环境设计蒋静含](bao-yan-zhi-bo/hua-dong-shi-fan-da-xue-huan-jing-she-ji-19-huan-jing-she-ji-jiang-jing-han.md)
+* [华南理工大学-电子信息-19机器人邓婧雯](bao-yan-zhi-bo/hua-nan-li-gong-da-xue-dian-zi-xin-xi-19-ji-qi-ren-deng-jing-wen.md)
+* [华南理工大学-电子信息-19机器人工程余绍蓉](bao-yan-zhi-bo/hua-nan-li-gong-da-xue-dian-zi-xin-xi-19-ji-qi-ren-gong-cheng-yu-shao-rong.md)
+* [新加坡国立大学“3+1+1”本硕项目申请经验——2020级BME吴诗哲](bao-yan-zhi-bo/xin-jia-po-guo-li-da-xue-3+1+1-ben-shuo-xiang-mu-shen-qing-jing-yan-2020-ji-bme-wu-shi-zhe.md)
 
 ## 出国深造
 
@@ -21,6 +24,8 @@
 * [2+2爱丁堡大学-电子与电气工程-21微电子李润庭](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-li-run-ting.md)
 * [2+2爱丁堡大学-电子与电气工程-21微电子邝星洋](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-kuang-xing-yang.md)
 * [2+2伯明翰大学-机械电子与机器人工程-21机器人周俊霖](chu-guo-shen-zao/2+2-bo-ming-han-da-xue-ji-xie-dian-zi-yu-ji-qi-ren-gong-cheng-21-ji-qi-ren-zhou-jun-lin.md)
+* [2+2鲁汶大学-杨媚涵](chu-guo-shen-zao/2+2-lu-wen-da-xue-yang-mei-han.md)
+* [NYU-21级生医廖君如](chu-guo-shen-zao/nyu21-ji-sheng-yi-liao-jun-ru.md)
 
 ## 考研
 

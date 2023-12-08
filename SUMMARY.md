@@ -27,6 +27,7 @@
 * [2+2爱丁堡大学-电子与电气工程-21微电子邝星洋](chu-guo-shen-zao/2+2-ai-ding-bao-da-xue-dian-zi-yu-dian-qi-gong-cheng-21-wei-dian-zi-kuang-xing-yang.md)
 * [2+2伯明翰大学-机械电子与机器人工程-21机器人周俊霖](chu-guo-shen-zao/2+2-bo-ming-han-da-xue-ji-xie-dian-zi-yu-ji-qi-ren-gong-cheng-21-ji-qi-ren-zhou-jun-lin.md)
 * [NYU-21级生医廖君如](chu-guo-shen-zao/nyu21-ji-sheng-yi-liao-jun-ru.md)
+* [东京大学-先进材料系-18轻化工程刘梓洋](chu-guo-shen-zao/dong-jing-da-xue-xian-jin-cai-liao-xi-18-qing-hua-gong-cheng-liu-zi-yang.md)
 
 ## 考研
 

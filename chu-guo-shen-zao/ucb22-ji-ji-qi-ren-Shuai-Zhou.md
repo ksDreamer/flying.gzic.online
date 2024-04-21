@@ -13,11 +13,12 @@
 
 **英语成绩：** Duolingo 120  CET-6 590+ 申请时（考没考六级有点忘了 大一下申请的）
 
-**联系：** [shuaizhou302.github.io](https://shuaizhou302.github.io/)  
+**联系：** [shuaizhou302.github.io](https://shuaizhou302.github.io/)  欢迎在linkedin connect+ 我
 
 ## 2. 项目信息
 
 **BGA(Berkeley Global Access)：**
+项目官网：[Bererkeley Global Access](https://extension.berkeley.edu/international/academic/berkeley-global-access/?b_source=google&b_medium=cpc&b_campaign=9577201383&b_adgroup=130692803207&b_keyword=%2Bberkeley%20%2Bglobal%20%2Baccess&b_matchtype=b&b_gclid=Cj0KCQjw8pKxBhD_ARIsAPrG45mDOyhj4UuDkB4zhP-3T3HjJjoD-bF0bEzXCd-9IgzkIqfwIdSZGs4aAvwdEALw_wcB&b_device=c-&b_position=&b_adid=547965779462&b_placement=&b_random=12252566024386573987&gad_source=1&gclid=Cj0KCQjw8pKxBhD_ARIsAPrG45mDOyhj4UuDkB4zhP-3T3HjJjoD-bF0bEzXCd-9IgzkIqfwIdSZGs4aAvwdEALw_wcB)
 
   是由Berkeley extension负责的提供给全世界学生在UCB学习交流的一个项目.其他项目还有BGHAP - 哈斯商学院的项目 Bisp, BPIE 等等其他化学 或物理学院开设的项目，以及复旦上交的uceap. 经过本人深扒，你工和Berkeley的ls学院竟然也有项目，不过估计疫情的时候像UCLA的csst一样停了.
 
@@ -29,14 +30,15 @@
   公立学校缺钱, 3.0往上申请基本真没什么问题 这个项目招的学生特别多, 无英语成绩可以申请面试，本人是没时间考托福 期末考试前用八个小时冲击了下duolingo 申请的。不过据我朋友说今年分数要求有所上升，但我仍然认为拿4-6级去面试比较低成本.（仅供参考） 
 
 **项目开支：**
-  项目费是4000多刀，学费是选课的总学分来收的，一学分750刀，本人选课15学分。除此之外的开销是租房 以及吃饭之类的开支。我参加的是全美的项目，租房个人感受偏贵，1200刀左右一个月 我很多朋友自己租的house或者住公寓比我们住的好. 同去的一位学姐住的是ihouse（伯克利的宿舍），也是差不多这个价格 具体可以到gzic国际交流公众号看. 吃饭： 课不多的时候请尽量自己做吧 一周一去trader joe, 和北边的99ranch（每次采购大概60刀上下 够一周吃早午餐） 课一多就省钱了 因为你压根没时间吃饭（bushi）, 一般是在外面吃像面朝noodle dynasty一碗15刀左右 还有其他餐馆. 总的来说一顿从5-25刀不等，湾区的物价比较逆天。 半年下来本人的所有开支是25W rmb左右. 需要注意的是 访问学生和交换生交的学费比本校生要少。
+
+  早点申请项目是有2000刀奖学金的机会的。项目费是4000多刀，学费是选课的总学分来收的，一学分750刀，本人选课15学分。除此之外的开销是租房 以及吃饭之类的开支。我参加的是全美的项目，租房个人感受偏贵，1200刀左右一个月 我很多朋友自己租的house或者住公寓比我们住的好. 同去的一位学姐住的是ihouse（伯克利的宿舍），也是差不多这个价格 具体可以到gzic国际交流公众号看. 吃饭： 课不多的时候请尽量自己做吧 一周一去trader joe, 和北边的99ranch（每次采购大概60刀上下 够一周吃早午餐） 课一多就省钱了 因为你压根没时间吃饭（bushi）, 一般是在外面吃像面朝noodle dynasty一碗15刀左右 还有其他餐馆. 总的来说一顿从5-25刀不等，湾区的物价比较逆天。 半年下来本人的所有开支是25W rmb左右. 需要注意的是 访问学生和交换生交的学费比本校生要少。
 
 
 ## 3. 选课与教学
 
  
 ### 3.1 选课
-key point：berkeleytime, workload<br>
+Key point：[伯克利课程列表](https://classes.berkeley.edu/), workload, [可以自己排伯克利课表的网站](https://berkeleytime.com/) 感谢Hans 设计这个网站。 <br>
 至于为什么学费少，因为作为访问学生 你的选课就是挑挑拣拣本校生选剩下的。以23 fall举例， BGA学生是最后选课. 所以有打算去交流的同学，最好早点看好自己要换的学分 以及容纳量，以及你可以看看它是不是某个专业的declare 必须课（比如说61b这种课 好像是很多专业要declare的必学，所以就算人超了也会扩容 去年就是900扩到1000多人）， 如果是一些高阶课那没选上就是没选上。当然你也可以写邮件给department argue，同时请教授帮忙。 注意我的用词，是请, 不是要求。我本人没被physic 8b 选上，写邮件向物理学院argue几次后最终换了discussion时间选上了。 这里推荐一个网站 BerkeleyTime， 可以自己搜索课号排课表（但是没有物理学院的具体分配）. **最重要的是** 要了解到伯克利的workload（课程工作量），同等学分的课程工作量远超泥工。举例4学分的61b（data structure）. 几乎每周的lab，以及每个月的project(感谢我的partner zoe, 没她我project3真寄了) 还有偶尔的homework(这几个东西的工作量可以参考大一那门python课的final project，大部分都比那个多。). 以及穿插的两个midterm和最后的final. 本人在大一下算是自学了一次泥工教的data structure(仅比较作业量和project量). 可以说伯克利的教学内容量和作业量远超泥工. **不要妄想能把学分换完** 早点列好15个打算选的课（避免学分不够12分被遣返回国）.  
 
 
@@ -49,7 +51,7 @@ key point：berkeleytime, workload<br>
 
 
 ### 3.4 科研
-伯克利有官方的科研项目urap，不过对于半年的学生不收，只有一年的交换生才有资格申请.那除此之外还有就是自己写邮件套磁教授，若是自己之前有科研经历的朋友可以套磁，附上自己的简历，有几率可以进组。当然，如果在伯克利没套到，记住你还有伯克利的邮箱，可以用伯克利的邮箱来套别的学校的教授。 对于想申请研究型硕士和博士的同学来说，这里可以交流的有很多，有兴趣可以reach out me.
+伯克利有官方的科研项目urap，不过对于半年的学生不收，只有一年的交换生才有资格申请.那除此之外还有就是自己写邮件套磁教授，若是自己之前有科研经历的朋友可以套磁，附上自己的简历，有几率可以进组。当然，如果在伯克利没套到，记住你还有伯克利的邮箱，可以用伯克利的邮箱来套别的学校的教授。 对于想申请研究型硕士和博士的同学来说，这里可以交流的有很多，有兴趣可以reach out me. 顺便说一下，你工有几位极为优秀的学长学姐在stanford，oxford， harvaed的强组读phd，在联系暑研的时候可以想办法reach out 一下，networking 是不管你在国内还是国外都需要掌握的技能。
 
 
 ## 4. 生活
@@ -67,7 +69,7 @@ key point：berkeleytime, workload<br>
   我是广东人，这里吃的一坨(比较主观 请勿参考) 不过旧金山的唐人街有老茶楼，可以吃到一些没见过的古老茶点。在伯克利的话，西边有川菜/湘菜，and 银记肠粉（没错 而且和广州是同一家 虽然吃起来差了十万八千里）以及韩国菜，泰国菜，以及各种各样的小馆子。注：21岁以下不能喝酒。我的朋友们推荐的是学校南边的面朝，和学校门口的几家韩国馆子。还有sarther 巷的take it eazy，老板是讲粤语的（这里连东北人都讲粤语）。自己做的叉烧和烧鹅，略贵但好吃方便。（仅供参考： 本人因为15学分全选的工程类 基本没多少时间吃饭，对于有志于这么选课的朋友，能量棒，士力架，奥利奥是你的好朋友）<br>
 出行 有跟纽约地铁一样抽象的地下轨道bart，以及学生卡免费乘坐的airtransit巴士.最好的情况是自己租一辆车，或者单车（本人主观意见，仅供参考）. 不管是自驾还是通行都很不错，在伯克利压力大的时候真的很需要出去hiking。这里公共交通蛮贵的。这里啥都蛮贵的
 
-#### 4.4 设备 和 消费
+#### 4.4 设备和消费
 手机最好不要使用遥遥领先，（我没有拉踩，我本人用的就是华为的平板和手机，然后因为google框架的问题基本不能用，临时买了个苹果方便很多），apple pay的绑卡很方便。以及电话卡要很方便安装。这边消费主要用的是信用卡：visa和master，american express。最好在国内办好卡，带点现金过来落地应急用，然后可以去学校附近的chase或bank of america 办debit card 和 credit card（储蓄卡和信用卡），在这边生活会方便很多（国内带来的信用卡有时会被拒绝支付）。网购也是基本一张卡就够了，也可以试试PayPal。
 
 
